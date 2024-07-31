@@ -20,3 +20,5 @@ var/
 *.egg
 MANIFEST
 app.log
+".env" 
+".env" 
